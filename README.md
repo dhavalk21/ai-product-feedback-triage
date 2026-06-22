@@ -44,7 +44,7 @@ The system is built as a visual pipeline that connects different tools together:
 
 If you want to use this workflow in your own n8n account, follow these quick steps:
 
-1. Copy the Code: Copy the contents of the sanitized_n8n_workflow.json file from this repository.
+1. Copy the Code: Copy the contents of the `AI_product_feedback_triage_workflow.json` file from this repository.
 
 2. Import to n8n: Open your n8n workspace, create a new blank workflow, and paste the code.
 
