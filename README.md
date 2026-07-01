@@ -39,7 +39,6 @@ The system is built as a visual pipeline that connects different tools together:
 <img width="779" height="295" alt="Screenshot 2026-06-15 155850" src="https://github.com/user-attachments/assets/6d84acb6-ec35-4909-ada4-b10b2c34be10" />
 
 
-
 ## 🛠️ How to Set This Up in Your Workspace
 
 If you want to use this workflow in your own n8n account, follow these quick steps:
